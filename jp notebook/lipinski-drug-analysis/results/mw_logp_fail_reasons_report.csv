@@ -1,0 +1,5 @@
+,count,percent
+HBA>10 only (HBD<=5),42,44.21
+HBD>5 only (HBA<=10),42,44.21
+Both HBA>10 & HBD>5,11,11.58
+Neither (HBA<=10 & HBD<=5),0,0.0
